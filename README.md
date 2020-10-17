@@ -1,4 +1,6 @@
-Health Care App dedicated to detecting medical facilities near someone whilst providing useful information regarding the said facilities.
+#Swasthya
+A Health Care App which automatically detects all the medical facilities that are present near a person and displays its location in the map
+It also has SOS system for emergency.
 
 
 All ideas are much appreciated!! :)
